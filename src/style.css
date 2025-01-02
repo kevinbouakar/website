@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css2?family=Rubik);
+@import url(https://fonts.googleapis.com/css2?family=Inter);
+@import url(https://www.nerdfonts.com/assets/css/webfont.css);
+
+body {
+    font-family: "Rubik", sans-serif;
+    background-color: hsl(240deg, 21%, 15%);
+}
+p {
+    color: #cdd6f4;
+    font-family: 'Inter', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 150%;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+.github-pfp 
+{
+    border-radius: 50px;
+    background: #e0e0e0;
+    margin: 10px; 
+    /* display: flex; */
+    /* box-shadow:  26px 26px 52px #9d9d9d,
+                -26px -26px 52px #ffffff; */
+}
+.horizontal-bar
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+.playlist
+{
+    border-radius:12px;
+    text-align: center;
+    display: block;
+    margin: 0 auto; /*! FOR iframeses only */
+}
+
+#socials:hover
+{
+    background: black;
+}
+
+.button-socials
+{
+    text-align: center;
+}
